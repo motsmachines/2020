@@ -6,7 +6,7 @@
 
 <br>
 
-## Liste des communications :**
+## Liste des communications :
 
 * Communication de [Lise Fontaine](https://www.univ-brest.fr/digitalAssets/87/87671_FONT.pdf)
 * Communication de [Patrice Bellot](https://www.univ-brest.fr/digitalAssets/87/87672_BEL.pdf)
