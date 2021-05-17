@@ -6,4 +6,4 @@
 
 <br>
 
-## Call for Papers - Traduction et sentiments : Quel(s) sens pour la machine ?
+## Call for Papers: Translation and feelings: Quel(s) sens pour la machine ?
