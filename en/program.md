@@ -1,4 +1,4 @@
-# Mots/Machines #2
+# Mots/Machines #2 : Translation and feelings: Quel(s) sens pour la machine ?
 
 <br>
 
