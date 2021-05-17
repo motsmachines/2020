@@ -12,7 +12,7 @@
 
 ## Summaries of the conferences
 
-* **Patrice Bellot**, De la représentation machine des sentiments et des émotions **[[summary]](2020/sub/Bellot.pdf)**
+* **Patrice Bellot**, De la représentation machine des sentiments et des émotions **[[summary]](sub/Bellot.pdf)**
 
 * **Lise Fontaine**, La mise en mots des sentiments : une approche du sens des mots guidée par la machine **[[summary]](sub/Fontaine.pdf)**
 
