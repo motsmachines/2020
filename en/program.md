@@ -12,11 +12,11 @@
 
 ## Summaries of the conferences
 
-* **Patrice Bellot**, De la représentation machine des sentiments et des émotions **[[summary]](sub/bellot.pdf)**
+* **Patrice Bellot**, De la représentation machine des sentiments et des émotions **[[summary]](sub/Bellot.pdf)**
 
 * **Lise Fontaine**, La mise en mots des sentiments : une approche du sens des mots guidée par la machine
 
-* **Rudy Loock**, Pour une approche raisonnée de la traduction automatique **[[summary]](sub/loock.pdf)**
+* **Rudy Loock**, Pour une approche raisonnée de la traduction automatique **[[summary]](sub/Loock.pdf)**
 
 * **Hanna Martikainen**, Expression de l’incertitude en traduction automatique neuronale : le cas des résumés médicaux Cochrane
 
