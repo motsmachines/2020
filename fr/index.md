@@ -1,13 +1,14 @@
 # Mots/Machines #2
-<br>
-
-[Accueil](https://motsmachines.github.io/2020/accueil) | [Participations](https://motsmachines.github.io/2020/participations) | [Programme](https://motsmachines.github.io/2020/programme) | [Organisation](https://motsmachines.github.io/2020/organisation) | [S'inscrire](https://motsmachines.github.io/2020/inscrire)
 
 <br>
+
+[Home](https://motsmachines.github.io/2020/fr) | [Call for Papers](https://motsmachines.github.io/2020/fr/cfp) | [Program](https://motsmachines.github.io/2020/fr/program) | [Organizers](https://motsmachines.github.io/2020/fr/orga) | [Registration](https://motsmachines.github.io/2020/fr/registration) | [<img src="EN.png" width="20">](https://motsmachines.github.io/2020/fr)
+
 <br>
 
-![Mots/Machines #2]![Uploading image.png…]()
+## Traduction et sentiments : Quel(s) sens pour la machine ?
 
+![image](https://user-images.githubusercontent.com/79905106/109628351-f3023c00-7b42-11eb-98f0-56b1911d0bc2.png)
 
 ## Lieu et accès
 BREST Faculté Victor Segalen
@@ -16,13 +17,13 @@ BREST Faculté Victor Segalen
 
 Brest Cedex 3, France
 
-Nous encourageons également la participation en ligne vue la situation sanitaire.
+Nous encourageons également la participation en ligne au vu de la situation sanitaire.
 
 ## Contacts
 
-Website: https://motsmachines.github.io/2021/
+Site Web : https://motsmachines.github.io/2021/
 
-E-mail: mots.machines@gmail.com
+E-mail : mots.machines@gmail.com
 
 
 ## Objectifs
