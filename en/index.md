@@ -1,10 +1,12 @@
-# Translation and feelings: Quel(s) sens pour la machine ?
+# Words/Machine #2
+
 <br>
 
 [Home](https://motsmachines.github.io/2020/en) | [Call for Papers](https://motsmachines.github.io/2020/en/cfp) | [Program](https://motsmachines.github.io/2020/en/program) | [Organizers](https://motsmachines.github.io/2020/en/orga) | [Registration](https://motsmachines.github.io/2020/en/registration) | [<img src="FR.png" width="20">](https://motsmachines.github.io/2020/fr)
 
 <br>
-<br>
+
+## Translation and feelings: Quel(s) sens pour la machine ?
 
 ![image](https://user-images.githubusercontent.com/79905106/109628351-f3023c00-7b42-11eb-98f0-56b1911d0bc2.png)
 
