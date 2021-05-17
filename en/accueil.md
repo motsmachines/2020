@@ -1,4 +1,10 @@
 # Translation and feelings: Quel(s) sens pour la machine ?
+<br>
+
+[Home](https://motsmachines.github.io/2021/EN) | [Call for Papers](https://motsmachines.github.io/2021/EN/cfp) | [Program](https://motsmachines.github.io/2021/EN/program) | [Organizers](https://motsmachines.github.io/2021/EN/orga) | [Registration](https://motsmachines.github.io/2021/EN/registration) | [<img src="FR.png" width="20">](https://motsmachines.github.io/2021/FR)
+
+<br>
+<br>
 
 ![image](https://user-images.githubusercontent.com/79905106/109628351-f3023c00-7b42-11eb-98f0-56b1911d0bc2.png)
 
