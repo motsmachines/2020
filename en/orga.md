@@ -6,7 +6,7 @@
 
 <br>
 
-## Lecturers:
+## Lecturers
 
 * Intervention of [Lise Fontaine](https://www.univ-brest.fr/digitalAssets/87/87671_FONT.pdf)
 * Intervention of [Patrice Bellot](https://www.univ-brest.fr/digitalAssets/87/87672_BEL.pdf)
