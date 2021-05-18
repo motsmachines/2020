@@ -1,4 +1,4 @@
-# Mots/Machines #2
+# Words/Machine #2
 
 <br>
 
