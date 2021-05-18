@@ -18,7 +18,7 @@
 
 * **Rudy Loock**, Pour une approche raisonnée de la traduction automatique **[[summary]](sub/Loock.pdf)**
 
-* **Hanna Martikainen**, Expression de l’incertitude en traduction automatique neuronale : le cas des résumés médicaux Cochrane.
+* **Hanna Martikainen**, Expression de l’incertitude en traduction automatique neuronale : le cas des résumés médicaux Cochrane **[[summary]](sub/Martikainen.pdf)**
 
 * **Alberto Poncelas**, La classification des sentiments dans la traduction indirecte **[[summary]](sub/Poncelas.pdf)**
 
