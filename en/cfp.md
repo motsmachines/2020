@@ -7,3 +7,5 @@
 <br>
 
 ## Call for Papers: Translation and feelings: Quel(s) sens pour la machine ?
+
+Submission of entries is no longer possible at the moment.
