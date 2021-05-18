@@ -6,4 +6,6 @@
 
 <br>
 
-## Registration
+## S'inscrire
+
+### Il n'est plus possible de s'inscrire à cet évènement.
