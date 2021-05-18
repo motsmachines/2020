@@ -8,4 +8,4 @@
 
 ## Appel à communication : Traduction et sentiments : Quel(s) sens pour la machine ?
 
-### Il n'est plus possible de proposer des communications pour cet évènement.
+### Il n'est plus possible de proposer de communications pour cet évènement.
