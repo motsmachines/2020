@@ -7,3 +7,5 @@
 <br>
 
 ## Registration
+
+### Registration is no longer possible.
