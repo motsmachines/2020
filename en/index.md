@@ -21,7 +21,11 @@ Considering the ongoing crisis, we also encourage online participation.
 
 ## Contacts
 
-Website: https://motsmachines.github.io/2020/
+2019 Website: https://motsmachines.github.io/2019
+
+2020 Website: https://motsmachines.github.io/2020
+
+2021 Website: https://motsmachines.github.io/2021
 
 E-mai: mots.machines@gmail.com
 
