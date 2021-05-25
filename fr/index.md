@@ -21,7 +21,11 @@ Nous encourageons également la participation en ligne au vu de la situation san
 
 ## Contacts
 
-Site Web : https://motsmachines.github.io/2021/
+2019 Website: https://motsmachines.github.io/2019
+
+2020 Website: https://motsmachines.github.io/2020
+
+2021 Website: https://motsmachines.github.io/2021
 
 E-mail : mots.machines@gmail.com
 
