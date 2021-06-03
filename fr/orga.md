@@ -16,3 +16,7 @@
 * Communication d'[Hanna Martikainen](https://www.univ-brest.fr/digitalAssets/87/87674_MART.pdf)
 * Communication de [Yuliya Samofalova](https://www.univ-brest.fr/digitalAssets/87/87675_SAMO.pdf)
 * Communication de [Rudy Loock](https://www.univ-brest.fr/digitalAssets/87/87658_lo.pdf)
+
+### Comité d'organisation
+- Liana Ermakova, HCTI, UBO
+- Orlane Puchalski, étudiante, UBO
