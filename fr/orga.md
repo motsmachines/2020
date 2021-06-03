@@ -8,8 +8,12 @@
 
 ## Organisation
 
-### Comité de programmation
-
 ### Comité d'organisation
+- Joanna Thornborrow, HCTI, UBO
+- Pierre Chartier, HCTI, UBO
 - Liana Ermakova, HCTI, UBO
+- Caroline Comacle, traductrice, UBO
+- Élise Mathurin, HCTI, UBO
+
+### Site Web
 - Orlane Puchalski, étudiante, UBO
