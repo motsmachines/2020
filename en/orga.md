@@ -8,8 +8,12 @@
 
 ## Organizers
 
-### Program committee
-
 ### Organizing committee
+- Joanna Thornborrow, HCTI, UBO
+- Pierre Chartier, HCTI, UBO
 - Liana Ermakova, HCTI, UBO
+- Caroline Comacle, translator, UBO
+- Élise Mathurin, HCTI, UBO
+
+### Website
 - Orlane Puchalski, student, UBO
