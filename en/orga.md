@@ -16,3 +16,7 @@
 * Intervention of [Hanna Martikainen](https://www.univ-brest.fr/digitalAssets/87/87674_MART.pdf)
 * Intervention of [Yuliya Samofalova](https://www.univ-brest.fr/digitalAssets/87/87675_SAMO.pdf)
 * Intervention of [Rudy Loock](https://www.univ-brest.fr/digitalAssets/87/87658_lo.pdf)
+
+### Organizing committee
+- Liana Ermakova, HCTI, UBO
+- Orlane Puchalski, student, UBO
