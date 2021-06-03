@@ -27,7 +27,7 @@ Considering the ongoing crisis, we also encourage online participation.
 
 [2021 Website](https://motsmachines.github.io/2021)
 
-E-mai: [mots.machines@gmail.com](mots.machines@gmail.com)
+E-mai: [mots.machines@gmail.com](mailto:mots.machines@gmail.com)
 
 
 ## Goals
